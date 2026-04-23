@@ -1,4 +1,4 @@
-package com.github.drakescraft-labs.sfcalc;
+package com.github.drakescraft_labs.sfcalc;
 
 import dev.drake.dough.common.ChatColors;
 import lombok.Getter;

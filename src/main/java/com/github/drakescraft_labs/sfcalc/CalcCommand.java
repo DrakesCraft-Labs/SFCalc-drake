@@ -1,7 +1,7 @@
-package com.github.drakescraft-labs.sfcalc;
+package com.github.drakescraft_labs.sfcalc;
 
-import com.github.drakescraft-labs.slimefun4.api.items.SlimefunItem;
-import com.github.drakescraft-labs.slimefun4.implementation.Slimefun;
+import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
+import com.github.drakescraft_labs.slimefun4.implementation.Slimefun;
 import dev.drake.dough.common.CommonPatterns;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
@@ -10,7 +10,7 @@ import org.bukkit.command.TabExecutor;
 import javax.annotation.Nonnull;
 import java.util.*;
 
-import static com.github.drakescraft-labs.sfcalc.StringRegistry.format;
+import static com.github.drakescraft_labs.sfcalc.StringRegistry.format;
 
 public class CalcCommand implements TabExecutor {
 

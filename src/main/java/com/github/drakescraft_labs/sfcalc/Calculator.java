@@ -1,6 +1,6 @@
-package com.github.drakescraft-labs.sfcalc;
+package com.github.drakescraft_labs.sfcalc;
 
-import com.github.drakescraft-labs.slimefun4.api.items.SlimefunItem;
+import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
 import dev.drake.dough.items.ItemUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -12,7 +12,7 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.*;
 
-import static com.github.drakescraft-labs.sfcalc.StringRegistry.format;
+import static com.github.drakescraft_labs.sfcalc.StringRegistry.format;
 
 /**
  * The main class for the calculator
