@@ -1,4 +1,4 @@
-package io.github.seggan.sfcalc;
+package com.github.drakescraft-labs.sfcalc;
 
 import dev.drake.dough.common.ChatColors;
 import lombok.Getter;

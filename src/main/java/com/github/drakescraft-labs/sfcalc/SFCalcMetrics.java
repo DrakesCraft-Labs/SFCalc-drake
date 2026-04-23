@@ -1,6 +1,6 @@
-package io.github.seggan.sfcalc;
+package com.github.drakescraft-labs.sfcalc;
 
-import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
+import com.github.drakescraft-labs.slimefun4.utils.ChatUtils;
 import org.bstats.bukkit.Metrics;
 import org.bstats.charts.AdvancedPie;
 import org.bstats.charts.SingleLineChart;
